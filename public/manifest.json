@@ -1,10 +1,10 @@
 {
   "id": "/",
   "scope": "/",
-  "name": "pbsPWA",
+  "name": "Sky PWA",
   "display": "standalone",
-  "start_url": "/",
-  "short_name": "starter",
+  "start_url": "/skyPWA",
+  "short_name": "SkyPWA",
   "theme_color": "#E1477E",
   "description": "This is a pbsPWA app",
   "orientation": "any",
@@ -44,14 +44,8 @@
       "type": "image/png"
     }
   ],
-  "features": [
-    "Cross Platform",
-    "fast",
-    "simple"
-  ],
-  "categories": [
-    "social"
-  ],
+  "features": ["Cross Platform", "fast", "simple"],
+  "categories": ["social"],
   "shortcuts": [
     {
       "name": "Open About",
@@ -84,3 +78,4 @@
     }
   ]
 }
+
